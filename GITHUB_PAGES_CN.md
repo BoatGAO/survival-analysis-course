@@ -46,7 +46,7 @@
 双击 `index.html` 即可打开；也可在终端执行：
 
 ```bash
-cd "/Users/boatgao/Desktop/BoatWorkSpace/Survival Analysis/survival-course"
+cd "/Users/boatgao/Desktop/BoatWorkSpace/Survival Analysis/survival-course-github"
 python3 -m http.server 4173
 ```
 
@@ -55,3 +55,8 @@ python3 -m http.server 4173
 官方文档：
 - https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site
 - https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site
+
+
+## 已上线项目
+
+本课程入口：https://boatgao.github.io/survival-analysis-course/ 。如果你正在维护这个已上线仓库，无需重新创建仓库或设置 Pages，按 `UPDATE_GITHUB_CN.md` 提交并推送更新即可。
