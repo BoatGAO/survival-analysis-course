@@ -23,3 +23,8 @@ Upload the **contents of this directory** to a GitHub repository root, then sele
 The calculator accepts nonnegative times and binary event indicators, up to 500 records. Ties process events before censoring; delayed entry, confidence intervals, and competing-risk estimation are not implemented. The examples are synthetic and are intended for learning.
 
 The textbook PDF is deliberately outside this website directory and is not part of the upload package. Notes are original summaries; consult your own textbook for the full treatment and exercises. No full textbook text, figures, or original datasets are reproduced.
+
+
+## Online course
+
+Visit [Survival Lab](https://boatgao.github.io/survival-analysis-course/) after GitHub Pages deployment completes.
